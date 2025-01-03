@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language xmlns="https://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.woltlab.com https://www.woltlab.com/XSD/tornado/language.xsd" languagecode="es">
+	<category name="wcf.acp.box">
+		<item name="wcf.acp.box.boxController.com.kittmedia.wcf.visitstatistics.visits"><![CDATA[Visitas]]></item>
+	</category>
+
+	<category name="wcf.acp.group">
+		<item name="wcf.acp.group.option.user.profile.visitor.include"><![CDATA[Incluir visitas en las estadísticas de visitantes]]></item>
+	</category>
+
+	<category name="wcf.acp.menu">
+		<item name="wcf.acp.menu.link.visitor"><![CDATA[Estadísticas de visitas]]></item>
+	</category>
+
+	<category name="wcf.acp.option">
+		<item name="wcf.acp.option.module_user_visitor"><![CDATA[Estadísticas de visitas]]></item>
+	</category>
+
+	<category name="wcf.acp.visitor">
+		<item name="wcf.acp.visitor.average"><![CDATA[Promedio]]></item>
+		<item name="wcf.acp.visitor.browsers"><![CDATA[Navegador]]></item>
+		<item name="wcf.acp.visitor.count"><![CDATA[Total]]></item>
+		<item name="wcf.acp.visitor.language"><![CDATA[Idioma]]></item>
+		<item name="wcf.acp.visitor.lastMonth"><![CDATA[Último mes]]></item>
+		<item name="wcf.acp.visitor.lastUpdated"><![CDATA[Última actualización]]></item>
+		<item name="wcf.acp.visitor.lastWeek"><![CDATA[Última semana]]></item>
+		<item name="wcf.acp.visitor.lastYear"><![CDATA[Último año]]></item>
+		<item name="wcf.acp.visitor.name"><![CDATA[Nombre]]></item>
+		<item name="wcf.acp.visitor.noData"><![CDATA[No hay datos para este periodo de tiempo.]]></item>
+		<item name="wcf.acp.visitor.noVisit.all"><![CDATA[Actualmente no hay páginas visitadas.]]></item>
+		<item name="wcf.acp.visitor.noVisit.browsers"><![CDATA[Actualmente no hay datos de navegadores.]]></item>
+		<item name="wcf.acp.visitor.noVisit.systems"><![CDATA[Actualmente no hay datos de sistemas.]]></item>
+		<item name="wcf.acp.visitor.noVisit.today"><![CDATA[Actualmente no hay páginas visitadas para hoy.]]></item>
+		<item name="wcf.acp.visitor.overview.title"><![CDATA[Visión general]]></item>
+		<item name="wcf.acp.visitor.percentage"><![CDATA[Porcentaje]]></item>
+		<item name="wcf.acp.visitor.request"><![CDATA[Solicitud]]></item>
+		<item name="wcf.acp.visitor.settings.title"><![CDATA[Ajustes]]></item>
+		<item name="wcf.acp.visitor.stat.display"><![CDATA[Mostrar]]></item>
+		<item name="wcf.acp.visitor.stat.displayGuests"><![CDATA[Invitados]]></item>
+		<item name="wcf.acp.visitor.stat.displayRegistered"><![CDATA[Usuarios registrados]]></item>
+		<item name="wcf.acp.visitor.stat.period"><![CDATA[Periodo]]></item>
+		<item name="wcf.acp.visitor.stat.period.end"><![CDATA[desde]]></item>
+		<item name="wcf.acp.visitor.stat.period.start"><![CDATA[hasta]]></item>
+		<item name="wcf.acp.visitor.statisticType"><![CDATA[Ocultar los siguientes tipos de estadísticas]]></item>
+		<item name="wcf.acp.visitor.systems"><![CDATA[Sistemas]]></item>
+		<item name="wcf.acp.visitor.thisMonth"><![CDATA[Este mes]]></item>
+		<item name="wcf.acp.visitor.thisWeek"><![CDATA[Esta semana]]></item>
+		<item name="wcf.acp.visitor.thisYear"><![CDATA[Este año]]></item>
+		<item name="wcf.acp.visitor.title"><![CDATA[Estadísticas de visitas]]></item>
+		<item name="wcf.acp.visitor.title.browsers"><![CDATA[Navegadores]]></item>
+		<item name="wcf.acp.visitor.title.systems"><![CDATA[Sistemas]]></item>
+		<item name="wcf.acp.visitor.today"><![CDATA[Hoy]]></item>
+		<item name="wcf.acp.visitor.total"><![CDATA[Total]]></item>
+		<item name="wcf.acp.visitor.url.title.all"><![CDATA[Páginas más visitadas (siempre)]]></item>
+		<item name="wcf.acp.visitor.url.title.today"><![CDATA[Páginas más visitadas (hoy)]]></item>
+		<item name="wcf.acp.visitor.visits.guest"><![CDATA[Visitas de invitados]]></item>
+		<item name="wcf.acp.visitor.visits.user"><![CDATA[Visitas de usuarios]]></item>
+		<item name="wcf.acp.visitor.visitedUrls"><![CDATA[Página]]></item>
+		<item name="wcf.acp.visitor.yesterday"><![CDATA[Ayer]]></item>
+	</category>
+
+	<category name="wcf.visitor">
+		<item name="wcf.visitor.hidden"><![CDATA[Título oculto]]></item>
+		<item name="wcf.visitor.lastUpdated"><![CDATA[Última actualización]]></item>
+		<item name="wcf.visitor.unknown"><![CDATA[Desconocido]]></item>
+		<item name="wcf.visitor.visits.average"><![CDATA[Promedio]]></item>
+		<item name="wcf.visitor.visits.average.perDay"><![CDATA[por día]]></item>
+		<item name="wcf.visitor.visits.lastMonth"><![CDATA[Último mes]]></item>
+		<item name="wcf.visitor.visits.lastWeek"><![CDATA[Última semana]]></item>
+		<item name="wcf.visitor.visits.lastYear"><![CDATA[Úlimo año]]></item>
+		<item name="wcf.visitor.visits.thisMonth"><![CDATA[Este mes]]></item>
+		<item name="wcf.visitor.visits.thisWeek"><![CDATA[Esta semana]]></item>
+		<item name="wcf.visitor.visits.thisYear"><![CDATA[Este año]]></item>
+		<item name="wcf.visitor.visits.today"><![CDATA[Hoy]]></item>
+		<item name="wcf.visitor.visits.total"><![CDATA[Total]]></item>
+		<item name="wcf.visitor.visits.yesterday"><![CDATA[Ayer]]></item>
+	</category>
+</language>
