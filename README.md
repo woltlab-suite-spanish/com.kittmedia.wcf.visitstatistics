@@ -1,5 +1,5 @@
 # KittMedia Visit Statistics en Español
-Idioma español para **KittMedia Visit Statistics** desarrollado por Black Rider.
+Idioma español para **KittMedia Visit Statistics** desarrollado por [KittMedia](https://github.com/KittMedia).
 
 ### Licencia
 Traducción realizada por [Aethior](https://github.com/aethior) (aethior en gmail.com).
