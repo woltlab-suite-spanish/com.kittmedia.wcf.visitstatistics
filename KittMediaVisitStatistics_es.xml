@@ -67,7 +67,7 @@
 		<item name="wcf.visitor.visits.average.perDay"><![CDATA[por día]]></item>
 		<item name="wcf.visitor.visits.lastMonth"><![CDATA[Último mes]]></item>
 		<item name="wcf.visitor.visits.lastWeek"><![CDATA[Última semana]]></item>
-		<item name="wcf.visitor.visits.lastYear"><![CDATA[Úlimo año]]></item>
+		<item name="wcf.visitor.visits.lastYear"><![CDATA[Último año]]></item>
 		<item name="wcf.visitor.visits.thisMonth"><![CDATA[Este mes]]></item>
 		<item name="wcf.visitor.visits.thisWeek"><![CDATA[Esta semana]]></item>
 		<item name="wcf.visitor.visits.thisYear"><![CDATA[Este año]]></item>
